@@ -1,3 +1,3 @@
-## Hi, I'm Reem 👋
+## Reem Alsaqyani
 
-## Cybersecurity student at KSU, with a background in Full-Stack Development
+## Hi, i'm a Cybersecurity student at King Saud University with a Background in Web Development. 
