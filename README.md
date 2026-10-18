@@ -1,26 +1,51 @@
+<div align="center">
+
 # Hi, I'm Reem Alsaqyani 👋
 
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat-square&logo=shield)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <b>Cybersecurity Student & Security Enthusiast</b>
+</p>
+
+<!-- شارات التقنيات والأمن السيبراني -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Blue Team-blue?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network Security-DarkRed?style=flat-square&logo=letsencrypt&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-## 👤 About Me
-Hello! I'm **Reem Alsaqyani**, a Cybersecurity student at **King Saud University**.
-
-I have a strong background in **Front-End Web Development** and **Database Management**. I am passionate about building secure applications, understanding system defense, and designing databases.
-
----
-
-## 🎯 Professional Interests
-- **Defensive Cybersecurity:** Exploring Blue Team concepts, network security, and threat analysis.
-- **Web Application Development:** Building clean, responsive interfaces using HTML5, CSS3, JavaScript, and ASP.NET.
-- **Database Architecture:** Designing structured databases using Microsoft SQL Server and Oracle PL/SQL.
-- **Continuous Learning:** Participating in technical bootcamps and practical CTF challenges.
+### 🛡️ About Me
+- 🎓 **Cybersecurity Student** at King Saud University.
+- 💻 Deeply focused on **Defensive Security**, Security Operations Center (SOC) environments, network traffic analysis, and Digital Forensics & Incident Response (DFIR).
+- 🧩 Active participant in **CTF challenges** (Flagyard, TryHackMe) and practical security bootcamps.
+- 🗄️ Experienced in bridging secure database architecture and web application development.
 
 ---
 
-## 📬 Contact & Links
-- **LinkedIn:** [Reem Alsaqyani](https://linkedin.com)
+### 🏆 Certifications & Professional Skills
+- **Certifications:** Certified Oracle PL/SQL Developer, Cisco IT Essentials, and Cisco Introduction to Cybersecurity.
+- **Security & Networking Tools:** Kali Linux, Wireshark, Nmap, VirtualBox, Git/GitHub.
+- **Development & Databases:** Python, C#, ASP.NET, Microsoft SQL Server, HTML5, CSS3, JavaScript.
+
+---
+
+### 🚀 Featured Projects
+- **Healthcare Management Web Application:** Developed a secure ASP.NET & SQL Server system for medical data organization.
+- **Health Assistant Tool:** Built a Python console application for health metrics with input validation and data safety.
+
+---
+
+### 📬 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
