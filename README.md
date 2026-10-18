@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Reem Alsaqyani 👋
+# Hi, I'm Reem Alsaqyani 
 
 <p align="center">
   <b>Cybersecurity Student & Security Enthusiast</b>
