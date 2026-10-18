@@ -23,10 +23,10 @@ I am a Cybersecurity student at King Saud University with a strong passion for d
 
 ## Contact Me
 
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="www.linkedin.com/in/reem-alsaqyani" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your-email@example.com">
+<a href="mailto:Reemalse33@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Email" />
 </a>
