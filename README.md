@@ -17,12 +17,12 @@
 
 ---
 
-## 🛡️ About Me
+##  About Me
 I am a Cybersecurity student at King Saud University with a strong passion for defensive security, Blue Team operations, and threat analysis. My main focus centers around understanding system defense, network traffic analysis, and Digital Forensics and Incident Response (DFIR). Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software and network defense with a comprehensive, technical mindset.
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" />
