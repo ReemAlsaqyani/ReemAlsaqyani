@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team-blue?style=flat-square&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 </p>
 
 </div>
