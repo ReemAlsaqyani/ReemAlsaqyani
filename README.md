@@ -1,48 +1,47 @@
 <div align="center">
+  <h3>Hi there, I'm Reem 👋</h3>
+  <p>Cybersecurity Student & Developer based in Riyadh, Saudi Arabia</p>
 
-# 🛡️ Reem Alsaqyani
-
-**Cybersecurity Student @ King Saud University**  
-*Investigating Networks | Linux Systems | Open Source Intelligence (OSINT)*
-
-<br />
-
-<!-- Shields Badges -->
-![Linux](https://img.shields.io/badge/Linux-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Networking-Wireshark-167DA5?style=for-the-badge&logo=wireshark&logoColor=white)
-![OSINT](https://img.shields.io/badge/Security-OSINT-00c853?style=for-the-badge&logo=shield&logoColor=white)
-
+  <!-- Contact Icons -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@domain.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="28" alt="Email" />
+  </a>
 </div>
 
 ---
 
-### 🔍 About Me
-
-> Cybersecurity student passionate about digital defense, network traffic investigation, and discovering insights through open-source intelligence. Driven by hands-on analysis and mastering terminal-based environments.
-
----
-
-### 🎯 Current Exploration & Focus
-
-- 🐧 **Systems:** Deepening practical experience in Linux environments and CLI administration.
-- 📡 **Networks:** Analyzing packet captures, protocols, and network traffic patterns.
-- 🕵️‍♀️ **Intelligence:** Exploring OSINT methodologies and digital artifact investigation.
-- 🧩 **Hands-on Practice:** Applying security concepts through interactive CTF scenarios.
-
-
+###  About Me
+I am a cybersecurity student based in Riyadh with a strong foundation in network infrastructure, vulnerability analysis, and system security. My primary focus centers around understanding network traffic, analyzing security vulnerabilities, and applying concepts through hands-on labs and practical problem-solving. Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software, networks, and evolving security challenges with a well-rounded, technical mindset.
 
 ---
 
-### 📬 Connect with Me
+###  Tech Stack & Tools
+
+<br/>
+
+<!-- Security & Database Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle PL/SQL" width="40" height="40"/>
+
+<br/><br/>
+
+<!-- Web Development Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/reem-alsaqyani" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:Reemalse33@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <small>Let's connect and build secure things together!</small>
 </div>
