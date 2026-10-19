@@ -17,8 +17,7 @@
 ---
 
 ##  About Me
-I am a Cybersecurity student at King Saud University with a strong passion for defensive security, Blue Team operations, and threat analysis. My main focus centers around understanding system defense, network traffic analysis, and Digital Forensics and Incident Response (DFIR). Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software and network defense with a comprehensive, technical mindset.
-
+I am a Cybersecurity student at King Saud University with a strong passion for defensive security, Blue Team operations, and threat analysis. My main focus centers around understanding system defense, network traffic analysis, vulnerability assessment, and Open Source Intelligence (OSINT). Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software and network defense with a comprehensive, technical mindset.
 ---
 
 ## Contact Me
