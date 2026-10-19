@@ -1,45 +1,57 @@
 <div align="center">
 
-# Hi, I'm Reem Alsaqyani 
+# 🛡️ Reem Alsaqyani
 
-<p align="center">
-  <b>Cybersecurity Student | Linux, Networking & OSINT Enthusiast</b>
-</p>
+**Cybersecurity Student @ King Saud University**  
+*Investigating Networks | Linux Systems | Open Source Intelligence (OSINT)*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Digital%20Defense-00c853?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-Investigation-purple?style=flat-square&logo=search&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-Network-167DA5?style=flat-square&logo=wireshark&logoColor=white" />
-</p>
+<br />
+
+<!-- Shields Badges -->
+![Linux](https://img.shields.io/badge/Linux-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Networking-Wireshark-167DA5?style=for-the-badge&logo=wireshark&logoColor=white)
+![OSINT](https://img.shields.io/badge/Security-OSINT-00c853?style=for-the-badge&logo=shield&logoColor=white)
 
 </div>
 
 ---
 
-###  About Me
+### 🔍 About Me
 
-I am a Cybersecurity student at King Saud University with a focused interest in digital defense, system investigation, and open-source intelligence. My practical journey centers around navigating Linux environments, network traffic and log analysis, Digital Forensics, and solving hands-on CTF challenges on platforms like PicoCTF, TryHackMe, and Flagyard.
-
----
-
-###  Technical Toolkit & Interests
-
-- 🐧 **Linux & Terminal:** Navigating `Kali Linux`, `VirtualBox`, and Linux command-line utilities.
-- 📡 **Networking & Traffic Analysis:** Investigating network packets using `Wireshark` and port scanning with `Nmap`.
-- 🕵️‍♀️ **OSINT & Digital Forensics:** Open-source intelligence gathering and digital evidence investigation.
-- 🧩 **CTFs & Practical Practice:** Actively solving challenges on `PicoCTF`, `TryHackMe`, and `Flagyard`.
+> Cybersecurity student passionate about digital defense, network traffic investigation, and discovering insights through open-source intelligence. Driven by hands-on analysis and mastering terminal-based environments.
 
 ---
 
-###  Connect with Me
+### 🎯 Current Exploration & Focus
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/reem-alsaqyani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:Reemalse33@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Email" />
-  </a>
-</p>
+- 🐧 **Systems:** Deepening practical experience in Linux environments and CLI administration.
+- 📡 **Networks:** Analyzing packet captures, protocols, and network traffic patterns.
+- 🕵️‍♀️ **Intelligence:** Exploring OSINT methodologies and digital artifact investigation.
+- 🧩 **Hands-on Practice:** Applying security concepts through interactive CTF scenarios.
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c853&icon_color=00c853" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/reem-alsaqyani" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:Reemalse33@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
