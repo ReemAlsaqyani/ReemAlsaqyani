@@ -29,14 +29,14 @@ I am a cybersecurity student based in Riyadh with a strong foundation in network
 ---
 
 <div align="center">
-  <small>Let's connect and build secure things together!</small>
+  <small>Let's connect!</small>
   <br/><br/>
    <!-- Contact Icons -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your.email@domain.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="Email" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Email" />
   </a>
 </div>
