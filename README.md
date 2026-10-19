@@ -1,16 +1,16 @@
 <div align="center">
   <h3>Hi there, I'm Reem 👋</h3>
-  <p>Cybersecurity Student & CTF Learner</p>
+  <code>Cybersecurity Student & CTF Learner</code>
 </div>
 
 ---
 
-###  About Me
+### 🔭 About Me
 I am a cybersecurity student based in Riyadh with a strong foundation in network infrastructure, vulnerability analysis, and system security. My primary focus centers around understanding network traffic, analyzing security vulnerabilities, and applying concepts through hands-on labs and practical problem-solving. Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software, networks, and evolving security challenges with a well-rounded, technical mindset.
 
 ---
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <br/>
 
@@ -31,7 +31,7 @@ I am a cybersecurity student based in Riyadh with a strong foundation in network
 <div align="center">
   <small>Let's connect!</small>
   <br/><br/>
-   <!-- Contact Icons -->
+  <!-- Contact Icons -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
