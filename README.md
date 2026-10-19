@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Reem Alsaqyani 👋
+# Hi, I'm Reem Alsaqyani 
 
 <p align="center">
   <b>Cybersecurity Student | Linux, Networking & OSINT Enthusiast</b>
@@ -19,18 +19,16 @@
 
 ###  About Me
 
-I am a Cybersecurity student at King Saud University with a focused interest in digital defense, system investigation, and open-source intelligence. My practical journey centers around navigating Linux environments, network traffic and log analysis, Digital Forensics, and solving hands-on CTF challenges on platforms like PicoCTF and TryHackMe.
+I am a Cybersecurity student at King Saud University with a focused interest in digital defense, system investigation, and open-source intelligence. My practical journey centers around navigating Linux environments, network traffic and log analysis, Digital Forensics, and solving hands-on CTF challenges on platforms like PicoCTF, TryHackMe, and Flagyard.
 
 ---
 
-###  Core Focus & Technical Tools
+###  Technical Toolkit & Interests
 
-| Category | Tools & Domains |
-| :--- | :--- |
-| **Operating Systems & Environment** | `Kali Linux`, `Linux Terminal`, `VirtualBox` |
-| **Network Security & Analysis** | `Wireshark`, `Nmap`, `TCP/IP Protocols` |
-| **Investigation & Intelligence** | `OSINT Frameworks`, `Digital Forensics` |
-| **Practices & Labs** | `PicoCTF`, `TryHackMe`, `Flagyard`, `CTFs` |
+- 🐧 **Linux & Terminal:** Navigating `Kali Linux`, `VirtualBox`, and Linux command-line utilities.
+- 📡 **Networking & Traffic Analysis:** Investigating network packets using `Wireshark` and port scanning with `Nmap`.
+- 🕵️‍♀️ **OSINT & Digital Forensics:** Open-source intelligence gathering and digital evidence investigation.
+- 🧩 **CTFs & Practical Practice:** Actively solving challenges on `PicoCTF`, `TryHackMe`, and `Flagyard`.
 
 ---
 
@@ -44,10 +42,4 @@ I am a Cybersecurity student at King Saud University with a focused interest in 
   <a href="mailto:Reemalse33@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Email" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Investigating digital footprints, decoding networks, and mastering the terminal."</i>
 </p>
