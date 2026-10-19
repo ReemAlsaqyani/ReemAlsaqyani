@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I'm Reem 👋</h3>
-  <p>Cybersecurity Student & Developer based in Riyadh, Saudi Arabia</p>
+  <p>Cybersecurity Student & CTF Learner</p>
 </div>
 
 ---
