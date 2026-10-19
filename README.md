@@ -29,16 +29,7 @@
 - 🕵️‍♀️ **Intelligence:** Exploring OSINT methodologies and digital artifact investigation.
 - 🧩 **Hands-on Practice:** Applying security concepts through interactive CTF scenarios.
 
----
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c853&icon_color=00c853" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-</div>
 
 ---
 
