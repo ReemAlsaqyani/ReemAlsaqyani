@@ -30,6 +30,7 @@ I am a cybersecurity student based in Riyadh with a strong foundation in network
 
 <div align="center">
   <small>Let's connect and build secure things together!</small>
+  <br/><br/>
    <!-- Contact Icons -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" alt="LinkedIn" />
