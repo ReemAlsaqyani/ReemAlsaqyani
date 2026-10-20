@@ -36,11 +36,11 @@ I am a cybersecurity student based in Riyadh with a strong foundation in network
 <div align="center">
   <p><b>Let's connect!</b></p>
   <!-- Contact Icons -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/reem-alsaqyani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="36" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:Reemalse33@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="36" alt="Email" />
   </a>
 </div>
