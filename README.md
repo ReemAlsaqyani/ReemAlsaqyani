@@ -36,7 +36,7 @@ I am a cybersecurity student based in Riyadh with a strong foundation in network
 <div align="center">
   <p><b>Let's connect!</b></p>
   <!-- Contact Icons -->
-  <a href="www.linkedin.com/in/reem-alsaqyani" target="_blank">
+  <a href="https://www.linkedin.com/in/reem-alsaqyani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="36" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
