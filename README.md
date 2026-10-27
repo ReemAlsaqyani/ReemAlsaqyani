@@ -5,8 +5,6 @@
 
 ---
 
-### 🛡️ About Me
-
 I am a cybersecurity student with a strong foundation in network infrastructure, vulnerability analysis, and system security. My primary focus centers around understanding network traffic, analyzing security vulnerabilities, and applying concepts through hands-on labs and practical problem-solving. Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software, networks, and evolving security challenges with a well-rounded, technical mindset.
 
 ---
