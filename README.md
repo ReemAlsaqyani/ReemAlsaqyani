@@ -7,10 +7,10 @@ I am a cybersecurity student and enthusiast looking for opportunities to make th
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/reem-alsaqyani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/reem-alsaqyani" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn">
   </a>
   <a href="mailto:Reemalse33@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://api.iconify.design/logos:google-gmail.svg" width="35" height="35" alt="Email">
   </a>
 </p>
