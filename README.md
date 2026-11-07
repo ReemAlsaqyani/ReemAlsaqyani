@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="#-about-me"><b>About Me</b></a> • 
-  <a href="#-skills--focus"><b>Skills & Focus</b></a> • 
   <a href="#-connect-with-me"><b>Connect</b></a>
 </p>
 
@@ -16,7 +15,7 @@ I am a cybersecurity student and enthusiast looking for opportunities to make th
 
 ---
 
-###  Connect with me:
+### 🌐 Connect with me:
 
 <div id="-connect-with-me"></div>
 
