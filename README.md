@@ -2,8 +2,6 @@
 
 # Hi, I am Reem 👋
 
-<br>
-
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity_Student-0d233a?style=for-the-badge&logoColor=white" alt="Cybersecurity Student" />
   &nbsp;
@@ -17,6 +15,15 @@
 ### 💻 About Me
 
 I am a cybersecurity student with a strong foundation in network infrastructure, vulnerability analysis, and system security. My primary focus centers around understanding network traffic, analyzing security vulnerabilities, and applying concepts through hands-on labs and practical problem-solving. Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software, networks, and evolving security challenges with a well-rounded, technical mindset.
+
+<br>
+
+### 🎯 Professional Interests
+
+* Analyzing network traffic and investigating system security.
+* Solving CTF challenges and applying hands-on security labs.
+* Exploring vulnerability assessment and threat mitigation.
+* Designing relational databases and building reliable web solutions.
 
 <br>
 <br>
