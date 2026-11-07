@@ -29,11 +29,11 @@ I am a cybersecurity student with a strong foundation in network infrastructure,
 <br>
 
 <p align="center">
-  <a href="mailto:Reemalse33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d233a?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
+  <a href="mailto:Reemalse33@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/gmail.svg" alt="Email" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/reem-alsaqyani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
 </p>
