@@ -1,44 +1,23 @@
-<div align="center">
-  <h3>Hi there, I'm Reem 👋</h3>
-  <code>&nbsp;Cybersecurity Student & CTF Learner&nbsp;</code>
+<div align="center" style="background-color: #0f2b48; padding: 35px; border-radius: 12px; color: #ffffff;">
+  <h1 style="margin: 0; font-size: 32px;">Hi, I'm Reem 👋</h1>
+  <p style="font-size: 16px; margin-top: 10px; opacity: 0.9;">Cybersecurity Student | Network Security & Systems Enthusiast</p>
 </div>
 
----
+<br />
+
+###  About Me
 
 I am a cybersecurity student with a strong foundation in network infrastructure, vulnerability analysis, and system security. My primary focus centers around understanding network traffic, analyzing security vulnerabilities, and applying concepts through hands-on labs and practical problem-solving. Beyond security, I hold practical experience in database architecture and web application development, allowing me to approach software, networks, and evolving security challenges with a well-rounded, technical mindset.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Connect With Me
 
-<br/>
-
-<!-- Security & Database Tools -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-</div>
-
-<br/>
-
-<!-- Web Development Tools -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-</div>
-
----
-
-<div align="center">
-  <p><b>Let's connect!</b></p>
-  <!-- Contact Icons -->
-  <a href="https://www.linkedin.com/in/reem-alsaqyani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="36" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
+<p>
   <a href="mailto:Reemalse33@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="36" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/reem-alsaqyani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
